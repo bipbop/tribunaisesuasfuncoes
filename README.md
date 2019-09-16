@@ -581,13 +581,7 @@ Paulo](http://www.tjmsp.jus.br/)
 
 ****Referências****
 
--   O Judiciário ao Alcance de Todos: noções básicas de juridiquês -
-    (AMB);
-
+-   O Judiciário ao Alcance de Todos: noções básicas de juridiquês - (AMB);
 -   <https://www.cnj.jus.br/poder-judiciario/portais-dos-tribunais>
-
 -   <http://www.cnj.jus.br/noticias/cnj/59220-primeira-instancia-segunda-instancia-quem-e-quem-na-justica-brasileira>
-
 -   <http://www.stf.jus.br/portal/cms/verTexto.asp?servico=sobreStfConhecaStfInstitucional>
-
-**hFim!**
