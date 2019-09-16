@@ -1,4 +1,8 @@
-****Tribunais e suas funções****
+# Sobre
+
+Ubiquitous language (linguagem onipresente) é o termo que Eric Evans usa no Domain Driven Design para a prática de criar uma linguagem comum e rigorosa entre desenvolvedores e usuários. Essa linguagem deve ser baseada no modelo de domínio usado no software - daí a necessidade de ser rigoroso, pois o software não lida bem com ambiguidade.
+
+## Tribunais e suas funções
 
 A justiça brasileira está dividida em Justiça Especializada e Justiça
 Comum, com cinco subdivisões.
@@ -23,7 +27,7 @@ como costumamos ouvir.
 
 Assim, vejamos:
 
-***Vocabulário Jurídico***
+## Vocabulário Jurídico ##
 
 **Instâncias** – O termo “instância” corresponde ao grau de jurisdição.
 Os juízes de órgãos de 1ª instância são os que primeiro estabelecem
